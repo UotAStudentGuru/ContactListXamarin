@@ -1,0 +1,16 @@
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.csprojResolveAssemblyReference.cache
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.Views.MainPage.xaml.g.cs
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.App.xaml.g.cs
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.Views.MyContacts.xaml.g.cs
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.dll
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\obj\Debug\Guru.pdb
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Guru.dll
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Guru.pdb
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Thanos\Desktop\Guru\Guru\Guru\bin\Debug\Xamarin.Forms.Xaml.xml
