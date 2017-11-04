@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MastDetDemo.AddContact_page">
+
+    <StackLayout >
+        <Label Text="Add a new contact " FontSize="40"/>
+
+        <Entry Placeholder="First Name" x:Name="fname" />
+
+        <Entry Placeholder="Last Name" x:Name="surname" />
+
+        <Entry Placeholder="Phone Number" Keyboard="Telephone" x:Name="PhoneNumber"/>
+
+        <Button x:Name="Add" Text="Add" Clicked="Add_OnClicked"/>
+        <Button x:Name="Display" Text="My Contacts" Clicked="Display_OnClicked" />
+    </StackLayout>
+
+</ContentPage>

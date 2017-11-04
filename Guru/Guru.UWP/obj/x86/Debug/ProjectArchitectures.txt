@@ -1,2 +1,0 @@
-C:\Users\Thanos\Desktop\Guru\Guru\Guru.UWP\Guru.UWP.csproj;x86
-C:\Users\Thanos\Desktop\Guru\Guru\Guru\Guru.csproj;neutral

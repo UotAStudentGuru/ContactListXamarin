@@ -1,0 +1,2 @@
+c:\users\argiris mouratidis\documents\visual studio 2015\Projects\MastDetDemo\MastDetDemo\MastDetDemo.UWP\MastDetDemo.UWP.csproj;x86
+c:\users\argiris mouratidis\documents\visual studio 2015\Projects\MastDetDemo\MastDetDemo\MastDetDemo\MastDetDemo.csproj;neutral
